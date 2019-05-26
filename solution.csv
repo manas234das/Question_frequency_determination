@@ -1,0 +1,13 @@
+Subjects,Topics,Questions
+Database Management System,transact,1. Java basics what is object  class  abstraction  polymorphism  inheritance?
+Database Management System,sql,7. He asked about inheritance  polymorphism  abstraction  encapsulation  etc
+Database Management System,sql,7. He asked about inheritance  polymorphism  abstration encapsulation  etc...
+Database Management System,ddl,COMMIT makes permanent the changes resulting from all SQL statements in the transaction. The changes made by the SQL statements of a transaction become visible to other user sessions transactions that start only after transaction is committed.
+Database Management System,transact,Can one use dynamic SQL within PL/SQL? OR Can you use a DDL in a procedure ? How ?
+Operating System,deadlock,Consider the following areas for tuning. The order in which steps are listed needs to be maintained to prevent tuning side effects. For example  it is no good increasing the buffer cache if you can reduce I/O by rewriting a SQL statement. Database Design (if it's not too late):
+Operating System,deadlock,Correct answer: Data Abstraction  Data Encapsulation  Inheritance  Polymorphism.  (4 Pillars).
+Database Management System,transact,For IS/CS DBMS basic knowledge  SQL queries is a must  few C program and C++ concept like inheritance  polymorphism etc  networking concepts is also important.
+Database Management System,ddl,One additional key difference between interfaces and abstract classes (possibly the most important one) is that multiple interfaces can be implemented by a class  but only one abstract class can be inherited by any single class.
+Database Management System,sql,TECH RND2: Threads  again they told to write programs in Encapsulation  Inheritance  Abstraction  about project.
+Database Management System,sql,This level of error severity indicates a transaction deadlock error.
+Database Management System,transact,When you install SQL Server 2005 and create a new database  is a Database Master Key created?

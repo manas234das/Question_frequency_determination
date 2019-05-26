@@ -1,3 +1,7 @@
+"""
+This file merges both the cvs files and then finds the most frequent questions based on the subjects and topics.
+"""
+
 # Data Pre-Processing for topic_dataset
 
 # Importing Libraries
@@ -256,12 +260,13 @@ top_10_set.columns = ['Subjects', 'Topics', 'Questions']
 # Moving the dataframe to the csv file
 top_10_set.to_csv('solution.csv', sep=',', index=False, encoding = "ISO-8859-1")
 
-
+"""
 # To visualise further as a collection grouping can be done
 top_10_set = top_10_set.groupby('Subjects').agg({'Topics':' | '.join,
                                                  'Questions':' |  '.join}).reset_index()
+"""
 
-
+print("The top most frequent questions are in the solution.csv file. Check the directory.")
 '''Note : Check the directory for the solution.csv file. It contains the top 10 questions
             with their respective subjects and topics'''
 
